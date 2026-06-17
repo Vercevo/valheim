@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: Vercevo/valheim
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: archived
   owner: eggmans
