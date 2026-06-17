@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: valheim
+  annotations:
+    github.com/project-slug: Vercevo/valheim
+spec:
+  type: other
+  lifecycle: unknown
+  owner: eggmans
